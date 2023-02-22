@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>Please enter Country and Capital</h1>
+<h1>Please enter Country</h1>
 <br>
 <br>
 
@@ -10,6 +10,7 @@
     <input type="text" name="country">
     <br>
     <br>
+    <h1>Please enter Capital</h1>
     <input type="text" name="capital">
     <input type="submit">
 
